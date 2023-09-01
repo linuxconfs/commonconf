@@ -2,7 +2,8 @@
 
 ## Config List
 
-- wtf:  ~/.config/wtf/config.yml
-- 
--
+| Name  | Path   | Info   |
+|-------------- | -------------- | -------------- |
+| WTF    |  ~/.config/wtf/config.yml    | https://wtfutil.com/modules/     |
+
 
